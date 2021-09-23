@@ -1,0 +1,23 @@
+[33mcommit b48ccdc7858c79a0bc54aa3997067e9bab7ad37f[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: Max <kmaks1364@gmail.com>
+Date:   Thu Sep 23 13:40:38 2021 +0300
+
+    added a button component and also added some fiture
+
+[33mcommit a8bb4ca3793458ecde0705cad3678d32801d6dcf[m
+Author: Max <kmaks1364@gmail.com>
+Date:   Thu Sep 23 12:59:16 2021 +0300
+
+    added a header component and some changes to it
+
+[33mcommit 4d3f3d40e6be8fe4c0bb7cbf6eb56a88ed5f134b[m
+Author: Max <kmaks1364@gmail.com>
+Date:   Thu Sep 23 12:52:02 2021 +0300
+
+    starting project and setting up global styles
+
+[33mcommit 1f302ad97652a8ba5d362bab262075c1599159a3[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Max <kmaks1364@gmail.com>
+Date:   Thu Sep 23 12:25:03 2021 +0300
+
+    initial commit
